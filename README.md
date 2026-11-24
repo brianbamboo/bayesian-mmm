@@ -2,8 +2,7 @@
 **ETA:** 2026-11-14 \
 **Completed:** 2026-11-17
 
-*Summary*
-> In this section, we generated a toy dataset including 156 weeks of revenue data and marketing spend across 4 channels (TV, search, social, display). 
+> **Summary:** In this section, we generated a toy dataset including 156 weeks of revenue data and marketing spend across 4 channels (TV, search, social, display). 
 > 
 > Revenue data was generated directly via adstocked spend, EC50 (saturation), and channel contribution (channel effect) parameters that were built into the model. In addition, business effects (pricing, distribution, promotion) and seasonality/holiday effects were modeled explicitly.
 > 
