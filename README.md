@@ -1,3 +1,15 @@
+# Bayesian Marketing Mix Models - A Case Study
+Background: I don't think a lot of people know, but I started my career working in digital marketing. Understanding how to use data to make better decisions in marketing was one of the main motivations behind why I went to graduate school to study statistics. 8 years and some change later, I never ended up working in marketing - and I've realized that I've never really taken time to understand how Bayesian marketing mix models work in practice.
+
+Like yes, I understand the principles of Bayesian statistics (prior x likelihood = posterior), and I've done some study on the whole concept of conjugate priors, blah-blah-blah, but I've never done anything beyond that, and to this day, I feel like it's a major gap in my data science toolkit.
+
+Recently I was laid off, and I've had a lot of free time on my hands - I've decided to spend some of this time working on some new projects and building my knowledge in areas that I haven't had a lot of experience with. The first of these projects is this Bayesian Marketing Mix Model case study.
+
+The way that this will work is I'll work through a case study with the help of ChatGPT (credit to AI) - ChatGPT will help me generate the case study and I'll use this to build my understanding of the concepts underlying a Bayesian marketing mix model and how a simple MMM would be implemented in practice. This repo will contain the work related to this case study, and then I'll wrap my work at the end by summarizing my learnings through a Medium article.
+
+My goal will be to finish approximately one data science project a month, and this is the first one for Nov 2026.
+
+
 ### Phase 1 - Data understanding and preparation
 **ETA:** 2026-11-14 \
 **Completed:** 2026-11-17
