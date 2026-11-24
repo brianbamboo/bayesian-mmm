@@ -12,8 +12,7 @@
 **ETA:** 2026-11-16 \
 **Completed:** 2026-11-23
 
-*Summary*
-> In this section, we worked through understanding two key concepts in Bayesian Marketing Mix Models: **adstock decay** and **saturation** using the Hill saturation function:
+> **Summary:** In this section, we worked through understanding two key concepts in Bayesian Marketing Mix Models: **adstock decay** and **saturation** using the Hill saturation function:
 > 
 > $$S(x)=\frac{x}{x+EC50}$$
 > 
@@ -23,7 +22,7 @@
 **ETA:** 2026-11-23 \
 **Completed:** 2026-11-23
 
-*Summary*
+> **Summary:** \
 > In this section, we reviewed key Bayesian concepts such as:
 > * Prior, likelihood and posterior
 > * Reasonable distributions to use for the prior:
