@@ -11,6 +11,7 @@ The way that this will work is I'll work through a case study with the help of C
 My goal will be to finish approximately one data science project a month, and this is the first one for Nov 2026.
 
 # Phases
+## Header 2
 ### Phase 1 - Data understanding and preparation
 **ETA:** 2026-11-14 \
 **Completed:** 2026-11-17
