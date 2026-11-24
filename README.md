@@ -1,6 +1,6 @@
 ### Phase 1 - Data understanding and preparation
-ETA: 2026-11-14
-Completed: 2026-11-17
+**ETA:** 2026-11-14
+**Completed:** 2026-11-17
 
 Summary: In this section, we generated a toy dataset including 156 weeks of revenue data and marketing spend across 4 channels (TV, search, social, display). 
 
