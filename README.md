@@ -11,8 +11,9 @@ The way that this will work is I'll work through a case study with the help of C
 My goal will be to finish approximately one data science project a month, and this is the first one for Nov 2026.
 
 # Phases
-## Header 2
-### Phase 1 - Data understanding and preparation
+This work will be divided into 6 phases and 1 additional phase for the writeup. I've added estimated dates of completion and actual dates of completion. Noting that I started this while I was on vacation in Taiwan from 11/14 to 11/21 AND THEN I CAUGHT THE FLU! So naturally, a lot of the completion dates have been pushed back :) - but keeping them there for transparency.
+
+## Phase 1 - Data understanding and preparation
 **ETA:** 2026-11-14 \
 **Completed:** 2026-11-17
 
@@ -22,7 +23,7 @@ My goal will be to finish approximately one data science project a month, and th
 > 
 > The goal of the remainder of the case study will be to recover the latent adstock, saturation, and channel contribution parameters which are known in our case study but not in real life.
 
-### Phase 2 - Marketing transformations
+## Phase 2 - Marketing transformations
 **ETA:** 2026-11-16 \
 **Completed:** 2026-11-23
 
@@ -32,7 +33,7 @@ My goal will be to finish approximately one data science project a month, and th
 > 
 > As a recap, EC50 is the amount of spend at which a channel reaches 50% adstock saturation, where saturation ranges between 0 and 1.
 
-### Phase 3 - Bayesian foundations
+## Phase 3 - Bayesian foundations
 **ETA:** 2026-11-23 \
 **Completed:** 2026-11-23
 
@@ -47,20 +48,20 @@ My goal will be to finish approximately one data science project a month, and th
 >     * Heavy-tailed errors
 >     * Skewed errors, biased predictions, model misspecification
 
-### Phase 4 - Model implementation
+## Phase 4 - Model implementation
 **ETA:** 2026-11-24 \
 **Completed:** TBD
 
-### Phase 5 - Model diagnostics
+## Phase 5 - Model diagnostics
 **ETA:** 2026-11-24 \
 **Completed:** TBD
 
-### Phase 6 - Marketing effectiveness
+## Phase 6 - Marketing effectiveness
 **ETA:** 2026-11-25 \
 **Completed:** TBD
 
 
-### Phase 7 - Writeup on Medium
+## Phase 7 - Writeup on Medium
 **ETA:** 2026-11-26 \
 **Completed:** TBD
 
