@@ -58,3 +58,8 @@ My goal will be to finish approximately one data science project a month, and th
 **ETA:** 2026-11-25 \
 **Completed:** TBD
 
+
+### Phase 7 - Writeup on Medium
+**ETA:** 2026-11-26 \
+**Completed:** TBD
+
