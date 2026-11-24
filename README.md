@@ -1,5 +1,6 @@
 # Bayesian Marketing Mix Models - A Case Study
-Background: I don't think a lot of people know, but I started my career working in digital marketing. Understanding how to use data to make better decisions in marketing was one of the main motivations behind why I went to graduate school to study statistics. 8 years and some change later, I never ended up working in marketing - and I've realized that I've never really taken time to understand how Bayesian marketing mix models work in practice.
+**Background** \
+I don't think a lot of people know, but I started my career working in digital marketing. Understanding how to use data to make better decisions in marketing was one of the main motivations behind why I went to graduate school to study statistics. 8 years and some change later, I never ended up working in marketing - and I've realized that I've never really taken time to understand how Bayesian marketing mix models work in practice.
 
 Like yes, I understand the principles of Bayesian statistics (prior x likelihood = posterior), and I've done some study on the whole concept of conjugate priors, blah-blah-blah, but I've never done anything beyond that, and to this day, I feel like it's a major gap in my data science toolkit.
 
