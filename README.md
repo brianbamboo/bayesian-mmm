@@ -2,17 +2,19 @@
 **ETA:** 2026-11-14 \
 **Completed:** 2026-11-17
 
-Summary: In this section, we generated a toy dataset including 156 weeks of revenue data and marketing spend across 4 channels (TV, search, social, display). 
+*Summary* \
+In this section, we generated a toy dataset including 156 weeks of revenue data and marketing spend across 4 channels (TV, search, social, display). 
 
 Revenue data was generated directly via adstocked spend, EC50 (saturation), and channel contribution (channel effect) parameters that were built into the model. In addition, business effects (pricing, distribution, promotion) and seasonality/holiday effects were modeled explicitly.
 
 The goal of the remainder of the case study will be to recover the latent adstock, saturation, and channel contribution parameters which are known in our case study but not in real life.
 
 ### Phase 2 - Marketing transformations
-ETA: 2026-11-16
-Completed: 2026-11-23
+**ETA:** 2026-11-16 \
+**Completed:** 2026-11-23
 
-Summary: In this section, we worked through understanding two key concepts in Bayesian Marketing Mix Models: **adstock decay** and **saturation** using the Hill saturation function:
+*Summary* \
+In this section, we worked through understanding two key concepts in Bayesian Marketing Mix Models: **adstock decay** and **saturation** using the Hill saturation function:
 
 $$S(x)=\frac{x}{x+EC50}$$
 
