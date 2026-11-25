@@ -52,18 +52,31 @@ This work will be divided into 6 phases and 1 additional phase for the writeup. 
 **ETA:** 2026-11-24 \
 **Completed:** 2026-11-25
 
+In this section, we implemented a basic Bayesian MMM in PyMC
+
 ## Phase 5 - Model diagnostics
 **ETA:** 2026-11-24 \
-**Completed:** TBD
+**Completed:** 2026-11-25
+
+In this section, we attempted to diagnose the failure of our model to recover the true parameters by examining:
+*
+*
+*
 
 ## Phase 6 - Marketing effectiveness
 **ETA:** 2026-11-25 \
-**Completed:** TBD
+**Completed:** 2026-11-25
 
+In this section, we computed the following metrics to assess marketing effectiveness given the parameters we recovered:
+* Channel contribution (% of revenue attributed to marketing/channel vs. non-marketing and baseline)
+* Revenue ROI by channel (channel contribution / channel spend)
+* Diminishing returns
+* Marginal returns
+* Simulate the business effect of increasing channel spend by $10,000 per week
 
 ## Phase 7 - Writeup on Medium
 **ETA:** 2026-11-26 \
-**Completed:** TBD
+**Completed:** 2026-11-26
 
 # Follow-ups and other notes
 TBD
