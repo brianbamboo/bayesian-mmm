@@ -50,7 +50,7 @@ This work will be divided into 6 phases and 1 additional phase for the writeup. 
 
 ## Phase 4 - Model implementation
 **ETA:** 2026-11-24 \
-**Completed:** TBD
+**Completed:** 2026-11-25
 
 ## Phase 5 - Model diagnostics
 **ETA:** 2026-11-24 \
