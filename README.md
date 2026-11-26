@@ -52,31 +52,32 @@ This work will be divided into 6 phases and 1 additional phase for the writeup. 
 **ETA:** 2026-11-24 \
 **Completed:** 2026-11-25
 
-In this section, we implemented a basic Bayesian MMM in PyMC
+> In this section, we implemented a basic Bayesian MMM in PyMC... TK
 
 ## Phase 5 - Model diagnostics
 **ETA:** 2026-11-24 \
 **Completed:** 2026-11-25
 
-In this section, we attempted to diagnose the failure of our model to recover the true parameters by examining:
-*
-*
-*
+> In this section, we attempted to diagnose the failure of our model to recover the true parameters by examining:
+> * TK
+> * TK
+> * TK
 
 ## Phase 6 - Marketing effectiveness
 **ETA:** 2026-11-25 \
 **Completed:** 2026-11-25
 
-In this section, we computed the following metrics to assess marketing effectiveness given the parameters we recovered:
-* Channel contribution (% of revenue attributed to marketing/channel vs. non-marketing and baseline)
-* Revenue ROI by channel (channel contribution / channel spend)
-* Diminishing returns
-* Marginal returns
-* Simulate the business effect of increasing channel spend by $10,000 per week
+> In this section, we computed the following metrics to assess marketing effectiveness given the parameters we recovered:
+> * Channel contribution (% of revenue attributed to marketing/channel vs. non-marketing and baseline)
+> * Revenue ROI by channel (channel contribution / channel spend)
+> * Diminishing returns
+> * Marginal returns
+> * Simulate the business effect of increasing channel spend by $10,000 per week
 
-## Phase 7 - Writeup on Medium
+## Phase 7 - Writeup in Jupyter Notebook
 **ETA:** 2026-11-26 \
-**Completed:** 2026-11-26
+**Completed:** 2026-11-25
 
 # Follow-ups and other notes
-TBD
+*2026-11-25* \
+Okay, I finished the case study and it went off the rails. I don't think it was designed to have identifiable parameters. I'mn going to do another case study that's from PyMC-Marketing's docs, which should hopefully be easier to follow.
